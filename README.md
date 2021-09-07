@@ -5,7 +5,8 @@
 
 
 ## → Linguagens:
-<code><img height="20" src="https://www.freepik.com/free-icon/python_15116801.htm#page=1&query=python%20logo&position=49"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+
 <!--
 **EdsonAugusto/EdsonAugusto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
