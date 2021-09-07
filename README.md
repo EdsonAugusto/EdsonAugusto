@@ -1,7 +1,7 @@
 ## Bem vindo, 
 
 ![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=EdsonAugusto&show_icons=true)
-https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonAugusto
+![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonAugusto)
 
 
 ## ** Linguagens **
