@@ -5,7 +5,7 @@
 
 
 ## → Linguagens:
-![Aryclenio GitHub Stats](<img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">)
+<code><img height="20" src="https://www.pngwing.com/pt/free-png-neumr"></code>
 <!--
 **EdsonAugusto/EdsonAugusto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
