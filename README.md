@@ -5,7 +5,7 @@
 
 
 ## → Linguagens:
-<code><img height="20" src="https://www.pngwing.com/pt/free-png-neumr"></code>
+<code><img height="60" src="https://www.pngwing.com/pt/free-png-neumr"></code>
 <!--
 **EdsonAugusto/EdsonAugusto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
