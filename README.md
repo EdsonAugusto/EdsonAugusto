@@ -6,7 +6,7 @@
 
 ## → Linguagens:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://img.favpng.com/16/10/16/python-javascript-logo-clojure-png-favpng-3x1GWHfajrTRuNP9cpdDLjbcc.jpg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png"></code>
 
 <!--
 **EdsonAugusto/EdsonAugusto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
