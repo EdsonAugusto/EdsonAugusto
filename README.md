@@ -9,7 +9,7 @@
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png"></code>
 
 ## → Protocolos:
-<code><img height="20" src="http://www.fortux.com/img/sip_logo.svg"></code>
+<code><img height="50" src="http://www.fortux.com/img/sip_logo.svg"></code>
 
 <!--
 **EdsonAugusto/EdsonAugusto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
