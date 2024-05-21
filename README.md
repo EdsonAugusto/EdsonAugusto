@@ -1,4 +1,4 @@
-## Bem vindo, 
+<!--## Bem vindo, 
 
 ![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=EdsonAugusto&show_icons=true&theme=github_dark)
 ![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonAugusto&theme=github_dark)
@@ -11,7 +11,7 @@
 ## → Protocolos:
 <code><img height="50" src="http://www.fortux.com/img/sip_logo.svg"></code>
 
-<!--
+
 **EdsonAugusto/EdsonAugusto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
